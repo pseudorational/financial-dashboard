@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "assertions": 27,
+  "checks": [
+    "four tabs",
+    "synthetic notice",
+    "golden current ratios",
+    "golden ROE",
+    "units preserve ratios",
+    "Valuation planned",
+    "Comparisons planned",
+    "second-company quote",
+    "no prior company mislabeled",
+    "Plotly zoom/reset controls",
+    "DEMO-PARTIAL reason",
+    "DEMO-PARTIAL tabs retained",
+    "DEMO-BANK reason",
+    "DEMO-BANK tabs retained",
+    "DEMO-TWO reason",
+    "DEMO-TWO tabs retained",
+    "DEMO-OPENING reason",
+    "DEMO-OPENING tabs retained",
+    "DEMO-ETF reason",
+    "DEMO-ETF tabs retained",
+    "DEMO-NOQUOTE reason",
+    "DEMO-NOQUOTE tabs retained",
+    "unknown real symbol explained",
+    "error tabs retained",
+    "mobile no page overflow",
+    "mobile financial tables contained",
+    "keyboard table scrolling"
+  ]
+}
