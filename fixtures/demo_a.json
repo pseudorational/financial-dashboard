@@ -1,0 +1,14 @@
+{
+  "declaration": "Project-owned synthetic data. Invented values; not a real security.",
+  "as_of": "2025-04-01",
+  "symbol": "DEMO-A",
+  "name": "Example Manufacturing",
+  "currency": "USD",
+  "source_scale": 1000000,
+  "periods": [
+    {"end":"2021-12-31","start":"2021-01-01","label":"FY2021","values":{"total_revenue":800,"net_income":80,"stockholders_equity":400,"total_assets":800,"current_finance_lease_liabilities":0,"noncurrent_finance_lease_liabilities":0}},
+    {"end":"2022-12-31","start":"2022-01-01","label":"FY2022","values":{"total_revenue":1000,"cost_of_revenue":600,"net_income":100,"cash_and_cash_equivalents":120,"short_term_investments":30,"current_receivables_net":150,"current_assets":500,"current_liabilities":250,"stockholders_equity":500,"total_assets":1000,"current_interest_bearing_debt":100,"long_term_interest_bearing_debt":150,"current_finance_lease_liabilities":0,"noncurrent_finance_lease_liabilities":0}},
+    {"end":"2023-12-31","start":"2023-01-01","label":"FY2023","values":{"total_revenue":1200,"cost_of_revenue":720,"net_income":144,"cash_and_cash_equivalents":140,"short_term_investments":40,"current_receivables_net":180,"current_assets":600,"current_liabilities":300,"stockholders_equity":600,"total_assets":1200,"current_interest_bearing_debt":120,"long_term_interest_bearing_debt":180,"current_finance_lease_liabilities":0,"noncurrent_finance_lease_liabilities":0}},
+    {"end":"2024-12-31","start":"2024-01-01","label":"FY2024","values":{"total_revenue":1500,"cost_of_revenue":900,"net_income":180,"cash_and_cash_equivalents":160,"short_term_investments":50,"current_receivables_net":210,"current_assets":750,"current_liabilities":300,"stockholders_equity":750,"total_assets":1500,"current_interest_bearing_debt":150,"long_term_interest_bearing_debt":225,"current_finance_lease_liabilities":0,"noncurrent_finance_lease_liabilities":0}}
+  ]
+}
