@@ -1,0 +1,5 @@
+{
+  "2022-12-31":{"current_ratio":[500,250],"quick_ratio":[300,250],"net_margin":[100,1000],"gross_margin":[400,1000],"roe":[100,450],"roa":[100,900],"debt_equity":[250,500],"asset_turnover":[1000,900],"revenue_yoy":[200,800],"income_yoy":[20,80]},
+  "2023-12-31":{"current_ratio":[600,300],"quick_ratio":[360,300],"net_margin":[144,1200],"gross_margin":[480,1200],"roe":[144,550],"roa":[144,1100],"debt_equity":[300,600],"asset_turnover":[1200,1100],"revenue_yoy":[200,1000],"income_yoy":[44,100]},
+  "2024-12-31":{"current_ratio":[750,300],"quick_ratio":[420,300],"net_margin":[180,1500],"gross_margin":[600,1500],"roe":[180,675],"roa":[180,1350],"debt_equity":[375,750],"asset_turnover":[1500,1350],"revenue_yoy":[300,1200],"income_yoy":[36,144]}
+}
