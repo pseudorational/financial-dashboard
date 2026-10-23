@@ -1,6 +1,6 @@
 # Financial Dashboard
 
-A compact dark Python / Streamlit / Plotly dashboard built from the accompanying financial-dashboard specification. Overview and Financials are functional; Valuation and Comparisons deliberately remain labeled roadmap panels.
+This Financial Dashboard was constructed with Sol 6.1. It features a Dashboard powered by data from Yahoo Finance rendered on Streamlit using the plotting library Plotly blended with html. Overview and Financials are functional; Valuation and Comparisons deliberately remain labeled roadmap panels.
 
 **Default: synthetic demo.** All demo companies, annual figures, prices, and volumes are invented. The financial fixture is frozen as of **2025-04-01**. Retrieval time is the actual retrieval time, not the fixture's market date. This application does not require an LLM, account, API key, database, or live network connection in demo mode.
 
